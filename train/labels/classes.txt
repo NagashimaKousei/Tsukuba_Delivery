@@ -1,0 +1,6 @@
+blue_box
+tag_b
+tag
+green_box
+tag_c
+tag_a
